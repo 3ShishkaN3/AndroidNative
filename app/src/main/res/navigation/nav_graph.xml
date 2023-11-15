@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FragmentListRecords">
+
+    <fragment
+        android:id="@+id/FragmentListRecords"
+        android:name="com.example.myapplication.views.FragmentListRecords"
+        android:label="@string/fragment_list_records_label"
+        tools:layout="@layout/fragment_list_records">
+
+        <action
+            android:id="@+id/action_FragmentListRecords_to_FragmentRecord"
+            app:destination="@id/FragmentRecord"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/FragmentRecord"
+        android:name="com.example.myapplication.views.FragmentRecord"
+        android:label="@string/fragment_record_label"
+        tools:layout="@layout/fragment_record">
+
+        <action
+            android:id="@+id/action_FragmentRecord_to_FragmentListRecords"
+            app:destination="@id/FragmentListRecords"
+            app:enterAnim="@anim/slide_in_left"
+            app:exitAnim="@anim/slide_out_right"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left"
+            />
+    </fragment>
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.myapplication.views.MainActivity"
+        android:label="MainActivity">
+
+    </activity>
+
+</navigation>

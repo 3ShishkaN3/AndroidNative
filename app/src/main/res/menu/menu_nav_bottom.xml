@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FragmentListRecords"
+        android:title="@string/fragment_list_records_label"
+        android:icon="@drawable/baseline_format_list_bulleted_24">
+    </item>
+    <item
+        android:id="@+id/FragmentRecord"
+        android:title="@string/fragment_record_label"
+        android:icon="@drawable/baseline_mic_24"/>
+</menu>

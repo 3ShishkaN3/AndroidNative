@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="fragment_list_records_label">Список</string>
+    <string name="fragment_record_label">Запись</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="affirmation1">A coward always seeks compromise</string>
+    <string name="affirmation2">A coward’s only reward is to live in fear another day.</string>
+    <string name="affirmation3">A dedicated life may reach the end of infinity.</string>
+    <string name="affirmation4">A fine mind is a blessing of the Emperor - It should not be cluttered with trivialities.</string>
+    <string name="affirmation5">A hundred thousand worlds, ten hundred thousand wars. There is no respite, there is nowhere to hide. Across the galaxy there is only war.</string>
+    <string name="affirmation6">A logical argument must be dismissed with absolute conviction!</string>
+    <string name="affirmation7">A mind without purpose will wander in dark places</string>
+    <string name="affirmation8">A moment of laxity spawns a lifetime of heresy.</string>
+    <string name="affirmation9">A questioning mind betrays a treacherous soul.</string>
+    <string name="affirmation10">A questioning servant is more dangerous than an ignorant heretic</string>
+    <string name="affirmation11">A single thought of heresy can blight a lifetime of faithful duty.</string>
+    <string name="affirmation12">A small mind is a tidy mind.</string>
+    <string name="affirmation13">A small mind is easily filled with faith.</string>
+    <string name="affirmation14">A suspicious mind is a healthy mind.</string>
+    <string name="affirmation15">A warrior\'s faith in his commander is his best armour and his strongest weapon.</string>
+    <string name="affirmation16">A weapon cannot substitute for zeal.</string>
+    <string name="affirmation17">A wise man learns from the death of others.</string>
+    <string name="affirmation18">Abhor the Night, it is the Light that Endures!</string>
+    <string name="affirmation19">Accept your lot!</string>
+    <string name="affirmation20">Across the void of space men live as they have lived for millennia upon the sand, rock and soil of worlds bathed in the light of alien suns. So is Humanity\'s seed cast far and wide beyond the knowledge of Man, to thrive bitterly in the darkness, to take root and cling with robust and savage determination.</string>
+    <string name="affirmation21">Adamantium walls and plasteel bulkheads may seem formidable, but an unshakeable faith in the Immortal Emperor of Man can overcome any barriers.</string>
+    <string name="affirmation22">Against the Alien and the Traitor there is no fair way to fight.</string>
+    <string name="affirmation23">All Daemons are Falsehood. They are lies given the shape of creatures by the fell power of Chaos.</string>
+    <string name="affirmation24">All hail the martyrs! On their blood is our Imperium founded, in their remembrance do we honour ourselves.</string>
+    <string name="affirmation25">All mortal life is folly that does not feed the spirit</string>
+    <string name="affirmation26">All our ignorances bring us closer to annihilation.</string>
+    <string name="affirmation27">All praise to the Emperor.</string>
+    <string name="affirmation28">All souls cry out for salvation.</string>
+    <string name="affirmation29">An alien mind cannot accept the Emperor\'s blessing.</string>
+    <string name="affirmation30">An Empty Mind Is A Loyal Mind. |align=center|</string>
+    <string name="affirmation31">An open mind is like a fortress with its gate unbarred and unguarded.</string>
+    <string name="affirmation32">An open mind is like a fortress with its gates unbarred and unguarded.</string>
+    <string name="affirmation33">An unprotected soul can no more cross the storms of the warp than a heretic can bear the gaze of the Inquisition.</string>
+    <string name="affirmation34">Analysis is the bane of conviction.</string>
+    <string name="affirmation35">Appeasement is a curse.</string>
+    <string name="affirmation36">As the mind to the body so the soul to the spirit, as death to the mortal man so failure to the immortal, such is the price of all ambition.</string>
+    <string name="affirmation37">Be courageous and bold, be humble before your masters, lead with valour! These things above all others will be of use when your time comes to die.</string>
+    <string name="affirmation38">Be grateful of your Master\'s favour!</string>
+    <string name="affirmation39">Be Pure.</string>
+    <string name="affirmation40">Be strong in your ignorance.</string>
+    <string name="affirmation41">Be vigilant and strong. The Emperor knows what evil lurks in the vacillation of a weak fool.</string>
+    <string name="affirmation42">Better crippled in body than corrupt in mind.</string>
+    <string name="affirmation43">Better to self-destruct than acquiesce.</string>
+    <string name="affirmation44">Between the stars the ancient unseen enemies of mankind wait and hunger. Every voyage into the nothing is a confrontation with horror, with the implacable things of the warp, and with man\'s own innermost fears.</string>
+    <string name="affirmation45">Big guns never tire.</string>
+    <string name="affirmation46">Blessed are the Gun Makers.</string>
+    <string name="affirmation47">Blessed is the mind too small for doubt.</string>
+    <string name="affirmation48">Blind faith is a just cause.</string>
+    <string name="affirmation49">Brave are they who know everything yet fear nothing.</string>
+    <string name="affirmation50">Burn the heretic.</string>
+    <string name="affirmation51">Burn the Heretic!</string>
+    <string name="affirmation52">Kill the Mutant!</string>
+    <string name="affirmation53">Purge the Unclean!</string>
+    <string name="affirmation54">Burn the Unclean with the fires of Purity.</string>
+    <string name="affirmation55">By the manner of our death are we judged.</string>
+    <string name="affirmation56">By the manner of their death we shall know them.</string>
+    <string name="affirmation57">Call no man happy until he is dead.</string>
+    <string name="affirmation58">Carry the Emperor\'s will as your torch, with it destroy the shadows</string>
+    <string name="affirmation59">Cast out the mutant, the traitor, the heretic. For every enemy without there are a hundred within.</string>
+    <string name="affirmation60">Cease and repent!</string>
+    <string name="affirmation61">Cease purpose and die.</string>
+    <string name="affirmation62">Cleanse yourself in the blood of our enemies.</string>
+    <string name="affirmation63">Compromise is akin to treachery.</string>
+    <string name="affirmation64">Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of Obedience which overcome all obstacles, and armed with the three great guns of Zeal, Duty and Purity.</string>
+    <string name="affirmation65">Consider the Predator. Let your soul be armoured with Faith, driven on the tracks of Obedience which overcomes all obstacles, and armed with the three great guns of Zeal, Duty and Purity.</string>
+    <string name="affirmation66">Contemplation is the womb of treachery.</string>
+    <string name="affirmation67">Courage is the Emperor’s gift: repay him with victory.</string>
+    <string name="affirmation68">Courage is the mastery of fear - not the absence of fear.</string>
+    <string name="affirmation69">Curse now the death in vain.</string>
+    <string name="affirmation70">Damnation is eternal.</string>
+    <string name="affirmation71">Dark dreams lie upon the heart.</string>
+    <string name="affirmation72">Death brings its own reward.</string>
+    <string name="affirmation73">Death is honor.</string>
+    <string name="affirmation74">Death is the only answer</string>
+    <string name="affirmation75">Death is the servant of the righteous.</string>
+    <string name="affirmation76">Defile not his presence.</string>
+    <string name="affirmation77">Defile the Mutant.</string>
+    <string name="affirmation78">Destroy, destroy, destroy!</string>
+    <string name="affirmation79">Dib dib dib, dob dob dob.</string>
+    <string name="affirmation80">Do not question the Will of the Emperor!</string>
+    <string name="affirmation81">Do Not Wait for Death.</string>
+    <string name="affirmation82">Do not waste your tears. I was not born to watch the world grow dim. Life is not measured in years, but by the deeds of men.</string>
+    <string name="affirmation83">Doubt forms the path to damnation.</string>
+    <string name="affirmation84">Doubt is a sign of weakness.</string>
+    <string name="affirmation85">Drink deep of victory and remember the fallen.</string>
+    <string name="affirmation86">Duty prevails.</string>
+    <string name="affirmation87">Enlightenment is a myth we do not need to understand in order to hate.</string>
+    <string name="affirmation88">Even a man who has nothing can still offer his life.</string>
+    <string name="affirmation89">Even though you once called him friend, the Traitor has forsaken you. Show no mercy even if he begs it, for his soul is tainted and given the chance he will betray your trust.</string>
+    <string name="affirmation90">Every human life is a spark in the darkness. It flares for a moment, catches the eye, and is gone forever. A retinal after-image that fades and is obscured forever by newer, brighter lights.</string>
+    <string name="affirmation91">Every lone spirit doubts his strength.</string>
+    <string name="affirmation92">Every man is a spark in the darkness. By the time he is noticed he is gone forever. A retinal after-image that fades and is obscured by newer, brighter lights.</string>
+    <string name="affirmation93">Examine your thoughts!</string>
+    <string name="affirmation94">Excuses are the refuge of the weak.</string>
+    <string name="affirmation95">Exist for the Emperor.</string>
+    <string name="affirmation96">Facts are chains that bind perception and fetter truth. For a man can remake the world if he has a dream and no facts to cloud his mind.</string>
+    <string name="affirmation97">Faith grows from the barrel of a gun.</string>
+    <string name="affirmation98">Faith, Hate and Ignorance.</string>
+    <string name="affirmation99">Faith. Honour. Vigilance.</string>
+    <string name="affirmation100">Faith in the Emperor is its own reward.</string>
+    <string name="affirmation101">Faith is stronger than Adamantium.</string>
+    <string name="affirmation102">Faith is the strongest shield.</string>
+    <string name="affirmation103">Faith is your shield.</string>
+    <string name="affirmation104">Faith without deeds is worthless.</string>
+    <string name="affirmation105">Fear is the Mind Killer.</string>
+    <string name="affirmation106">Fear not death, for the soul of the faithful man never dies.</string>
+    <string name="affirmation107">Fear not the creatures of the jungle but those that lurk within your mind.</string>
+    <string name="affirmation108">Fear the shadows; despise the night. There are horrors that no man can face and survive.</string>
+    <string name="affirmation109">Follow the Emperor, and the glory of victory shall be yours.</string>
+    <string name="affirmation110">Foolish are those who fear nothing, yet claim to know everything.</string>
+    <string name="affirmation111">For a warrior the only crime is cowardice.</string>
+    <string name="affirmation112">For every battle honour, a thousand heroes die alone, unsung, and unremembered.</string>
+    <string name="affirmation113">For the foes of Mankind, the only mercy is a swift death.</string>
+    <string name="affirmation114">For those who seek perfection there can be no rest this side of the grave.</string>
+    <string name="affirmation115">Forgiveness is a sign of weakness.</string>
+    <string name="affirmation116">Forward Brothers, with loyalty to victory and glory!</string>
+    <string name="affirmation117">Glory in death is life Eternal.</string>
+    <string name="affirmation118">Happiness is a delusion of the weak.</string>
+    <string name="affirmation119">Hard work conquers everything.</string>
+    <string name="affirmation120">Hate enriches.</string>
+    <string name="affirmation121">Hatred is our surest weapon.</string>
+    <string name="affirmation122">Hatred is the Emperor\'s greatest gift to humanity.</string>
+    <string name="affirmation123">Hatred steels our resolve.</string>
+    <string name="affirmation124">He bears the weight of Mankind\'s ills.</string>
+    <string name="affirmation125">He who allows the alien to live shares its crime of existence.</string>
+    <string name="affirmation126">He who lives for nothing is nothing. He who dies for the Emperor is a hero.</string>
+    <string name="affirmation127">He who picks up the sword against us, shall perish by it.</string>
+    <string name="affirmation128">Heresy grows from idleness.</string>
+    <string name="affirmation129">Heresy must be met with hatred.</string>
+    <string name="affirmation130">His will be done.</string>
+    <string name="affirmation131">His Word is Our Strength.</string>
+    <string name="affirmation132">Honor is what a pure mind knows about itself.</string>
+    <string name="affirmation133">Honor your Chapter.</string>
+    <string name="affirmation134">Honour, Duty &amp; Obedience.</string>
+    <string name="affirmation135">Hope is the beginning of unhappiness.</string>
+    <string name="affirmation136">Hope is the first step on the road to disappointment.</string>
+    <string name="affirmation137">Humanity is an ocean; if a few drops of the ocean are polluted then the ocean is tainted.</string>
+</resources>
